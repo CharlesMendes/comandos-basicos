@@ -1,4 +1,4 @@
-# comandos-basicos
+# Comandos Básicos
 Lista de comandos básicos no shell
 
 ## github
